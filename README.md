@@ -8,7 +8,7 @@ I'm a software engineer and open source contributor with a strong focus on **dis
 - Actively contributing to the **Apache Ozone**, with a focus on performance, stability, and compatibility
 - Passionate about building **reliable, scalable storage solutions** that power modern applications
 
-## Contributions @ [Apache Ozone](https://github.com/apache/ozone)
+## Contributions @ Apache Ozone
 
 - Designed the **S3 Event Notification** subsystem for real-time integration with systems like Kafka
 - Fixed multiple **flaky tests** to maintain CI stability and improve system reliability
