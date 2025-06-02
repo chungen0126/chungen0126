@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Chung-En Lee
+# Hi, I'm Chung-En Lee
 
 I'm a software engineer and open source contributor with a strong focus on **distributed systems**, **cloud-native infrastructure**, and **storage platforms**. I'm currently a **committer and active contributor to [Apache Ozone](https://ozone.apache.org/)**, where I help build scalable, reliable object storage systems for big data applications.
 
 ---
 
-## 🔧 About Me
+## About Me
 
 - Open source developer specializing in **Java** and **distributed systems**
 - Actively contributing to the **Apache Ozone**, with a focus on performance, stability, and compatibility
@@ -12,7 +12,7 @@ I'm a software engineer and open source contributor with a strong focus on **dis
 
 ---
 
-## 🚀 Contributions @ Apache Ozone
+## Contributions @ [Apache Ozone](https://github.com/apache/ozone)
 
 - Designed the **S3 Event Notification** subsystem for real-time integration with systems like Kafka
 - Fixed multiple **flaky tests** to maintain CI stability and improve system reliability
@@ -23,7 +23,7 @@ I'm a software engineer and open source contributor with a strong focus on **dis
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 - **Languages**: Java, Python
 - **Distributed Systems**: Raft, Ozone, HDFS, Kafka
@@ -31,7 +31,7 @@ I'm a software engineer and open source contributor with a strong focus on **dis
 
 ---
 
-## 🌏 I'm Open To...
+## I'm Open To...
 
 - Roles in **open source infrastructure** or **backend system development**
 - Collaborating on OSS projects that need design, code, or review expertise
